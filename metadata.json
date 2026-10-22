@@ -1,0 +1,6 @@
+{
+  "name": "Cha-er Dokan Simulator",
+  "description": "A stylized-realistic third-person 3D Bangladeshi roadside tea stall simulator built with Three.js, React, and TypeScript.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
